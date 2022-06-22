@@ -1,0 +1,15 @@
+body{
+    color: grey;
+}
+
+ul{
+    list-style: none;
+}
+
+.checked{
+    text-decoration: line-through;
+}
+
+.unchecked{
+    text-decoration: none;
+}
